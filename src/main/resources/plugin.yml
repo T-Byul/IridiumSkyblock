@@ -9,5 +9,5 @@ depend: [ Vault ]
 softdepend: [ RoseStacker, WorldEdit, PlaceholderAPI, MVdWPlaceholderAPI, WildStacker, EpicSpawners, UltimateStacker, MergedSpawner, Vault, Multiverse-Core, Essentials, EssentialsChat, ChatManager, DeluxeChat ]
 commands:
   island:
-    aliases: [ "is", "IridiumSkyblock" ]
+    aliases: [ "is", "IridiumSkyblock", "섬" ]
     description: Main plugin command
